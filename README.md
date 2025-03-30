@@ -3,8 +3,8 @@ Welcome to my GitHub profile!
 
 # About me
 - I'm studying Computer Science and Mathematics at the University of Ottawa.
-**Languages** Java, Javascript, C/C++, Python, R,  Go, Prolog
-**Tools** Git, VS Code
+- **Languages** Java, Javascript, C/C++, Python, R,  Go, Prolog
+- **Tools** Git, VS Code
 
 # My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milne-alexander/)
@@ -15,4 +15,4 @@ Welcome to my GitHub profile!
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sasha-milne/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sasha-milne?theme=dark&ext=activity)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milne-sasha&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sashamilne&show_icons=true)
