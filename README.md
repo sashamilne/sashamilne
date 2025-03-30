@@ -3,8 +3,9 @@ Welcome to my GitHub profile!
 
 # About me
 - I'm studying Computer Science and Mathematics at the University of Ottawa.
-- **Languages** Java, Javascript, C/C++, Python, R,  Go, Prolog
-- **Tools** Git, VS Code
+## Skills
+- **Languages**: Java, Javascript, C/C++, Python, R,  Go, Prolog
+- **Tools**: Git, VS Code
 
 # My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milne-alexander/)
