@@ -51,7 +51,10 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 
 ## LeetCode 
 
--**My Leetcode**: Here is my [Leetcode]((https://leetcode.com/u/sasha-milne)). I haven't really been updating it since high school but I plan on solving more problems in the futre.
+- **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
 
-### Stats  
-![LeetCode Stats](https://leet-code-stats.vercel.app/api/leetcode/user?username=sasha-milne)
+### Stats
+- **Easy**: 6 
+- **Medium**: 2 
+- **Hard**: 1
+
