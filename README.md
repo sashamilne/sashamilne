@@ -41,6 +41,6 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - LinkedIn: [linkedin.com/in/milne-alexander](https://linkedin.com/in/milne-alexander)
 
 ## Other Personal Interests
-- **Piano**: I've been playing piano since I was five, although I don't really have time or motivation to play anymore.
-- **Alpine Skiing**: I used to race competitively when I was younger, now I just ski for fun with friends.
+- **Piano**: I've been playing since I was five, but can't really maintain a commitment like that anymore with schools.
+- **Alpine Skiing**: I used to race competitively, now I just ski for fun.
 - **Listening to music**: [My Spotify](https://open.spotify.com/user/ambw4fnf0sktw4ubzr6z6udde)
