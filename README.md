@@ -7,7 +7,7 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 
 ### Programming Languages  
 - **Proficient:** Java, C, C++, Python  
-- **Familiar:** R, Go, Prolog, Javascript
+- **Familiar:** R, Go, Prolog, Scheme, Javascript
 
 ### Frameworks & Libraries  
 - **Data Science & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, NLTK
@@ -25,4 +25,18 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - Personal Email: [a.sasha.milne@gmail.com](mailto:a.sasha.milne@gmail.com)
 - School Email: [amiln029@uottawa.ca](mailto:amiln029@uottawa.ca)  
 - LinkedIn: [linkedin.com/in/milne-alexander](https://linkedin.com/in/milne-alexander)
+
+## Academic Focus - Mathematics
+
+### 📚 Relevant Coursework  
+- **Calculus I, II, III**  
+- **Honours Linear Algebra**  
+- **Discrete Mathematics**  
+- **Probability and Statistics**    
+- **Real Analysis**  
+- **Group Theory**
+
+### Research Interests
+- **Elliptic Curve Cryptography**: Finding the rational points on elliptic curves.
+- **Quantum Cryptography**: i.e. Shor's factoring algorithm
 
