@@ -53,4 +53,5 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 
 -**My Leetcode**: Here is my [Leetcode]((https://leetcode.com/u/sashamilne)). I haven't really been updating it since high- chool but I intend to start working on more problems in the future.
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-100%20Solved%20Problems-green?logo=leetcode)
+### Stats  
+![LeetCode Stats](https://leetcode-stats.herokuapp.com/api/cpp/username?logo=leetcode)
