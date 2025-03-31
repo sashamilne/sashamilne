@@ -1,19 +1,28 @@
-# Hi there! 👋  
-Welcome to my GitHub profile!  
+# Welcome! This is where I showcase my coding projects and explorations. 
 
-# About me
-- I'm studying Computer Science and Mathematics at the University of Ottawa.
-## Skills
-- **Languages**: Java, Javascript, C/C++, Python, R,  Go, Prolog
-- **Tools**: Git, VS Code
+## About Me  
+I'm a Computer Science and Mathematics student at the **University of Ottawa** with a strong passion for problem-solving, algorithms, and software development. I enjoy exploring new technologies and continuously improving my coding skills.  
 
-# My Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milne-alexander/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/milne-sasha)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/ambw4fnf0sktw4ubzr6z6udde)  
+## Technical Skills  
 
-# LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sasha-milne/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/sasha-milne?theme=dark&ext=activity)  
+### Programming Languages  
+- **Proficient:** Java, C, C++, Python  
+- **Familiar:** R, Go, Prolog, Javascript
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sashamilne&show_icons=true)
+### Frameworks & Libraries  
+- **Data Science & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, NLTK
+
+### Databases & Data Management  
+- **SQL Databases:** MySQL, PostgreSQL  
+- **NoSQL Databases:** Firebase 
+
+### Development Tools & Technologies  
+- **Version Control:** Git  
+- **IDE & Editors:** VS Code, RStudio
+- **Build Tools:** Maven, Gradle 
+
+## Contact Me
+- Personal Email: [a.sasha.milne@gmail.com](mailto:a.sasha.milne@gmail.com)
+- School Email: [amiln029@uottawa.ca](mailto:amiln029@uottawa.ca)  
+- LinkedIn: [linkedin.com/in/milne-alexander](https://linkedin.com/in/milne-alexander)
+
