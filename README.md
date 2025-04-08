@@ -6,11 +6,12 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 ## Technical Skills  
 
 ### Programming Languages  
-- **Proficient:** Java, C, C++, Python  
-- **Familiar:** R, Go, Prolog, Scheme, Javascript
+- **Proficient:** Java, C, C++, Python, Javascript 
+- **Familiar:** R, Go, Prolog, Scheme/Lisp
 
 ### Frameworks & Libraries  
 - **Data Science & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, NLTK
+- **Backend:** Flask, Node.js, Express
 
 ### Databases & Data Management  
 - **SQL Databases:** MySQL, PostgreSQL  
@@ -18,12 +19,17 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 
 ### Development Tools & Technologies  
 - **Version Control:** Git  
-- **IDE & Editors:** VS Code, RStudio
+- **IDE & Editors:** VS Code, RStudio, Emacs
 - **Build Tools:** Maven, Gradle 
+
+### Relevant Coursework
+- **Data Structures and Algorithms**
+- **Intro Software Engineering**
+- **Databases**
 
 ## Academic Focus - Mathematics
 
-### 📚 Relevant Coursework  
+### Relevant Coursework  
 - **Calculus I, II, III**  
 - **Honours Linear Algebra**  
 - **Discrete Mathematics**  
