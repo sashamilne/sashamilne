@@ -27,6 +27,24 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - **Intro Software Engineering**
 - **Databases**
 
+## Contact Me
+- Personal Email: [a.sasha.milne@gmail.com](mailto:a.sasha.milne@gmail.com)
+- School Email: [amiln029@uottawa.ca](mailto:amiln029@uottawa.ca)  
+- LinkedIn: [linkedin.com/in/milne-alexander](https://linkedin.com/in/milne-alexander)
+
+## Soft Skills
+- **Languages**: Fully fluent in English and French
+- **Teamwork**: Experienced working collaboratively on many in-class projects.
+
+## LeetCode 
+
+- **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
+
+### Stats
+- **Easy**: 10 
+- **Medium**: 6 
+- **Hard**: 1
+
 ## Academic Focus - Mathematics
 
 ### Relevant Coursework  
@@ -41,27 +59,9 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - **Elliptic Curve Cryptography**: Finding the rational points on elliptic curves.
 - **Quantum Cryptography**: i.e. Shor's factoring algorithm
 
-## Contact Me
-- Personal Email: [a.sasha.milne@gmail.com](mailto:a.sasha.milne@gmail.com)
-- School Email: [amiln029@uottawa.ca](mailto:amiln029@uottawa.ca)  
-- LinkedIn: [linkedin.com/in/milne-alexander](https://linkedin.com/in/milne-alexander)
-
-## Soft Skills
-- **Languages**: Fully fluent in English and French
-- **Teamwork**: Experienced working collaboratively on many in-class projects.
 
 ## What I do in my spare time
 - **Piano**: I've been playing since I was five, although I haven't really been able to maintain it since high school.
 - **Alpine Skiing**: I used to race competitively, now I just like to ski with friends.
 - **Listening to music**: [My Spotify](https://open.spotify.com/user/ambw4fnf0sktw4ubzr6z6udde)
-- **Video Games**: I used to play a lot when I was younger, my personal favourite is Factorio.
-
-## LeetCode 
-
-- **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
-
-### Stats
-- **Easy**: 9 
-- **Medium**: 5 
-- **Hard**: 1
-
+- **Video Games**: My personal favourites are Factorio, Terraria, and Risk of Rain 2
