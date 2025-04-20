@@ -41,7 +41,7 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
 
 ### Stats
-- **Easy**: 14 
+- **Easy**: 16 
 - **Medium**: 6 
 - **Hard**: 2
 
