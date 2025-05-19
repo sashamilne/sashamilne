@@ -6,7 +6,8 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 ## Technical Skills  
 
 ### Programming Languages  
-- **Proficient:** Java, C, C++, Python, Javascript 
+- **Primary:** C, C++, Python
+- **Proficient** Java, Javascript, Rust
 - **Familiar:** R, Go, Prolog, Scheme/Lisp
 
 ### Frameworks & Libraries  
@@ -15,12 +16,12 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 
 ### Databases & Data Management  
 - **SQL Databases:** MySQL, PostgreSQL  
-- **NoSQL Databases:** Firebase 
+- **NoSQL Databases:** Firebase
 
 ### Development Tools & Technologies  
 - **Version Control:** Git  
-- **IDE & Editors:** VS Code, RStudio, Emacs
-- **Build Tools:** Maven, Gradle 
+- **IDE & Editors:** VS Code, CLion, Pycharm, Helix
+- **Build Tools:** Maven, Gradle, Makefile, CMake
 
 ### Relevant Coursework
 - **Data Structures and Algorithms**
@@ -41,9 +42,9 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
 
 ### Stats
-- **Easy**: 29 
-- **Medium**: 17 
-- **Hard**: 2
+- **Easy**: 37 
+- **Medium**: 21 
+- **Hard**: 4
 
 ## Academic Focus - Mathematics
 
@@ -55,13 +56,3 @@ I'm a Computer Science and Mathematics student at the **University of Ottawa** w
 - **Real Analysis**  
 - **Group Theory**
 
-### Research Interests
-- **Elliptic Curve Cryptography**: Finding the rational points on elliptic curves.
-- **Quantum Cryptography**: i.e. Shor's factoring algorithm
-
-
-## What I do in my spare time
-- **Piano**: I've been playing since I was five, although I haven't really been able to maintain it since high school.
-- **Alpine Skiing**: I used to race competitively, now I just like to ski with friends.
-- **Listening to music**: [My Spotify](https://open.spotify.com/user/ambw4fnf0sktw4ubzr6z6udde)
-- **Video Games**: My personal favourites are Factorio, Terraria, and Risk of Rain 2
