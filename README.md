@@ -1,7 +1,7 @@
-# Welcome! This is where I showcase my coding projects and explorations. 
+# Hi, you just find my personal Github account. 
 
 ## About Me  
-I'm a Computer Science and Mathematics student at the **University of Ottawa** with a strong passion for problem-solving, algorithms, and software development. I enjoy exploring new technologies and continuously improving my coding skills. 
+I'm a third-year student at the University of Ottawa with a double Honours in Computer Science and Mathematics. This account is where I keep the majority of my personal projects and schoolwork. A lot of repositories are incomplete or just set up to access files across multiple machines but a few have some interesting projects. Feel free to take a look.
 
 ## Technical Skills  
 
