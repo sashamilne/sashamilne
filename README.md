@@ -42,9 +42,9 @@ I'm a third-year student at the University of Ottawa with a double Honours in Co
 - **Profile**: [sasha-milne](https://leetcode.com/u/sasha-milne/)
 
 ### Stats
-- **Easy**: 37 
-- **Medium**: 21 
-- **Hard**: 4
+- **Easy**: 39 
+- **Medium**: 22 
+- **Hard**: 7
 
 ## Academic Focus - Mathematics
 
