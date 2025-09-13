@@ -3,11 +3,17 @@
 ## About Me  
 I'm a third-year student at the University of Ottawa. I tend keep a lot of semi-finished personal projects and schoolwork here.
 
-### Programming Languages I use regularly
+### Languages I use often
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+
+### Languages I've worked with in the past
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 
 ### Frameworks & Libraries  
