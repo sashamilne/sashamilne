@@ -11,10 +11,10 @@ I'm a third-year student at the University of Ottawa. I tend keep a lot of semi-
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
-### Languages I've worked with in the past
+### Languages I am familiar with but use less often
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### Frameworks & Libraries  
 - **Data Science & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, NLTK
