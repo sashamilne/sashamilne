@@ -1,14 +1,14 @@
-# Hi, you just find my personal Github account. 
+# Hey, I'm Sasha 
 
 ## About Me  
-I'm a third-year student at the University of Ottawa with a double Honours in Computer Science and Mathematics. This account is where I keep the majority of my personal projects and schoolwork. A lot of repositories are incomplete or just set up to access files across multiple machines but a few have some interesting projects. Feel free to take a look.
+I'm a third-year student at the University of Ottawa. I tend keep a lot of semi-finished personal projects and schoolwork here.
 
-## Technical Skills  
+### Programming Languages I use regularly
 
-### Programming Languages  
-- **Primary:** C, C++, Python
-- **Proficient** Java, Javascript, Rust
-- **Familiar:** R, Go, Prolog, Scheme/Lisp
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ### Frameworks & Libraries  
 - **Data Science & Machine Learning:** TensorFlow, Keras, Scikit-learn, OpenCV, NLTK
